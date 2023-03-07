@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=YuukiTakahashi4690  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuukiTakahashi4690)  
 
 
 <!--
